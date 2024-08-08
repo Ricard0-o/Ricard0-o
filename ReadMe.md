@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌆 About Me:
 👨‍💻Sou um estudante back-end com alguns conhecimentos em front-end<br>📟Estou estudando (DS)Analise e desenvolvimento de sistemas<br>☕Aprendendo JAVA<br>🐘Aprendendo PHP
 
 
