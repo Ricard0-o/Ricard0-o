@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Sou um estudante back-end com alguns conhecimentos em front-end<br>📟Estou estudando (Ads)Analise e desenvolvimento de sistemas<br>☕Aprendendo JAVA
+👨‍💻Sou um estudante back-end com alguns conhecimentos em front-end<br>📟Estou estudando (Ads)Analise e desenvolvimento de sistemas<br>☕Aprendendo JAVA<br>🐘Aprendendo PHP
 
 
 ## 🌐 Socials:
