@@ -1,5 +1,7 @@
 # 💥 About Me:
+努力
 👨‍💻Sou um estudante back-end e front-end<br>📟Estou estudando (DS)Analise e desenvolvimento de sistemas<br>☕JAVA<br>🐘PHP
+努力
 
 
 ## 🌐 Socials:
