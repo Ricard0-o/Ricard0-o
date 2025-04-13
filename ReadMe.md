@@ -6,7 +6,7 @@ trabalho full-stack <br>📟Estou estudando (DS)desenvolvimento de sistemas<br>�
 努力
 
 
-## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rick_nelber/) 
+## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ricardo.nelber/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ricard0-o&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
