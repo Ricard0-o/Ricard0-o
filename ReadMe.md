@@ -1,10 +1,6 @@
-# 💥 About Me:
-努力
 
-trabalho full-stack <br>📟Estou estudando (DS)desenvolvimento de sistemas<br>🐘PHP
 
-努力
-
+trabalho full-stack <br>📟 técnico em (DS)desenvolvimento de sistemas<br>🐘PHP
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ricardo.nelber/) 
 
