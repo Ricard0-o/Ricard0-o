@@ -1,7 +1,7 @@
 
-📟 técnico em (DS)desenvolvimento de sistemas<br>🐘PHP<br>JAVA<br>
+📟 técnico em (DS)desenvolvimento de sistemas<br>🐘PHP<br>
 Cursando (ADS) Analise e desenvolvimento de sitemas<br>
-cursando Ads
+
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ricardo.nelber/) 
 
