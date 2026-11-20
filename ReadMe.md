@@ -10,7 +10,6 @@ Desenvolvo projetos acadêmicos e pessoais de aplicações web, CRM e organizaç
 - **CRM de prospecção e gestão comercial** — projeto pessoal com PHP, MySQL e JavaScript, cadastros, leads, pipeline, operações CRUD e controle de acesso. [Código e instalação](https://github.com/Ricard0-o/nexora-crm) · [Demonstração com dados fictícios](https://ricard0-o.github.io/nexora-crm/).
 - **Conexus Learnfy** — TCC de plataforma web de vídeos para treinamento corporativo, com PHP, MySQL, JavaScript, autenticação e interface responsiva.
 - [Portfólio profissional](https://ricard0-o.github.io/ricardonelberdev/) — apresentação, projetos e currículo.
-- [Portfólio acadêmico](https://github.com/Ricard0-o/Atividade-Meu-Portif-lio-Para-Faculdade) — atividades de desenvolvimento front-end.
 
 ## Conhecimentos
 
