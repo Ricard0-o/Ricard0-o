@@ -6,8 +6,8 @@ Desenvolvo projetos acadêmicos e pessoais de aplicações web, CRM e organizaç
 
 ## Projetos em destaque
 
-- **Finanças em Dia** — aplicação pessoal em desenvolvimento com JavaScript puro, Node.js e SQLite. Inclui contas, lançamentos, cartões, faturas, compromissos, autenticação, famílias e permissões, além de notificações Web Push. O código e os dados desse projeto não estão publicados neste perfil.
-- **CRM de prospecção e gestão comercial** — projeto pessoal com PHP, MySQL e JavaScript, cadastros, leads, pipeline, operações CRUD e controle de acesso.
+- **Finanças em Dia** — aplicação pessoal em desenvolvimento com JavaScript puro, Node.js e SQLite. Inclui contas, lançamentos, cartões, faturas, compromissos, autenticação, famílias e permissões, além de notificações Web Push. [Código e instalação](https://github.com/Ricard0-o/financas-em-dia) · [Demonstração com dados fictícios](https://financas-em-dia-ricardo-demo.rick00-oo.chatgpt.site). Os dados pessoais não são publicados.
+- **CRM de prospecção e gestão comercial** — projeto pessoal com PHP, MySQL e JavaScript, cadastros, leads, pipeline, operações CRUD e controle de acesso. [Código e instalação](https://github.com/Ricard0-o/nexora-crm) · [Demonstração com dados fictícios](https://nexora-crm-ricardo-demo.rick00-oo.chatgpt.site).
 - **Conexus Learnfy** — TCC de plataforma web de vídeos para treinamento corporativo, com PHP, MySQL, JavaScript, autenticação e interface responsiva.
 - [Portfólio profissional](https://ricard0-o.github.io/ricardonelberdev/) — apresentação, projetos e currículo.
 - [Portfólio acadêmico](https://github.com/Ricard0-o/Atividade-Meu-Portif-lio-Para-Faculdade) — atividades de desenvolvimento front-end.
